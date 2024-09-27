@@ -51,6 +51,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Speed: 15
   RotationSpeed: 900
+  _rigidbody: {fileID: 3926076937567617957}
 --- !u!114 &4936029312921792006
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63,6 +64,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63d0ba486cb045528cfb47c2a18ec6d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _explosionFX: {fileID: 8915500580573861359, guid: 9d11447644b0e0842a7edb034fe1ac72,
+    type: 3}
 --- !u!136 &4594190580586276196
 CapsuleCollider:
   m_ObjectHideFlags: 0
