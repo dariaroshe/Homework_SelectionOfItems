@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DefaultNamespace
+namespace Movement
 {
     public class ProjectileMovement : BaseMovement
     {

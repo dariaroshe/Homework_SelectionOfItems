@@ -1,8 +1,7 @@
-using System;
-using DefaultNamespace;
+using Movement;
 using UnityEngine;
 
-namespace Items
+namespace Items.Actions
 {
     public class SpeedBoostAction : ItemUseAction
     {

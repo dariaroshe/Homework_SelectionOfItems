@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DefaultNamespace
+namespace Movement
 {
     public abstract class BaseCharacterMovement : BaseMovement
     {
